@@ -1,0 +1,54 @@
+input{
+    width: 150px;
+    height:100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color:#fff;
+    border-style: none;
+
+}
+
+#myform{
+    margin:  0 225px;
+    margin-top: 20px;
+    /* border: medium solid purple; */
+    /* background-color: #777; */
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+
+#display{
+    width: 675px;
+    height: 100px;
+    text-align: center;
+    background-color: #67b0e9;
+
+}
+
+#add{
+    background-color: #cc5c11;
+}
+
+#minus{
+    background-color: #ba55d3;
+}
+
+#multiply{
+    background-color: #7db1b2;
+}
+
+#cancel{
+    background-color:#cc0000 ;
+}
+
+#divide{    
+    background-color: #0ecd3f;
+
+}
